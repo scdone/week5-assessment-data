@@ -23,3 +23,5 @@ def sales_reports(log_file):
 
 #the statement below invokes the function above with the data from the txt file
 sales_reports(log_file)
+
+
